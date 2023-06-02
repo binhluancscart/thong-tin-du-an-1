@@ -6,3 +6,10 @@
 - Code clone từ site khác về thì phải clear lại ( tên css phải theo chuẩn BEM link vidu: https://topdev.vn/blog/bem-la-gi/)
 - Thẻ a phải có title
 - Thẻ img phải có width + height
+
+- Jquery: https://code.jquery.com/jquery-3.3.1.min.js
+- Slider:
+   * jQuery OwlCarousel v1.32
+   *	Copyright (c) 2013 Bartosz Wojciechowski
+   *	http://www.owlgraphic.com/owlcarousel/
+   *	Licensed under MIT
